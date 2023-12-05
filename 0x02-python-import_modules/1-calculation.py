@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-if_name_=="_main_":
+if__name__=="_main_":
     ""Print the sum,difference,multiple and quotient of 10 from the calculator.""
     
     a = 10
